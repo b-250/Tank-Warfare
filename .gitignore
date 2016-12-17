@@ -41,3 +41,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.lib
+*.mp3
+ReadObj/ReadObj.vcxproj.filters
+*.user
+*.vcxproj
+ReadObj/Release/ReadObj.tlog/link.write.1.tlog
+*.tlog
+*.obj
+*.mtl
+*.bmp
+Release/ReadObj.exe
+*.iobj
+Release/ReadObj.ipdb
+*.pdb
+备忘录.txt
+*.log
+*.sln
+ReadObj.suo
+*.suo
+*.dll
