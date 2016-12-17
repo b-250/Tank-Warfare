@@ -1,3 +1,5 @@
+//The version is v1.0.1
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <windows.h>
 #include <iostream>
