@@ -61,3 +61,7 @@ Release/ReadObj.ipdb
 ReadObj.suo
 *.suo
 *.dll
+*.dds
+ReadObj/tank/m26_pershing/m26_pershing-2012/m26_pershing-2012.max
+ReadObj.VC.VC.opendb
+*.db
